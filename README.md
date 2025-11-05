@@ -1,6 +1,6 @@
 # ait_event_management
 
-A new Flutter project.
+A user interface for ait event management using flutter and dart.
 
 ## Getting Started
 
